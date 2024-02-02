@@ -1,5 +1,5 @@
 {
-  "name": "VRD Default List",
+  "name": "Bloom Default List",
   "timestamp": "2021-03-17T09:56:23Z",
   "version": {
     "major": 2,
@@ -8,13 +8,13 @@
   },
   "tags": {},
   "logoURI": "/",
-  "keywords": ["VRD", "default"],
+  "keywords": ["WBGBC", "default"],
   "tokens": [
     {
-      "name": "VRD Token",
-      "symbol": "WVRD",
-      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
-      "chainId": 422,
+      "name": "WBGBC Token",
+      "symbol": "WBGBC",
+      "address": "0xe5882F80f03493f8Eaa9Ae63E8baFeaEAc979378",
+      "chainId": 333313,
       "decimals": 18,
       "logoURI": ""
     },
@@ -23,8 +23,8 @@
     {
       "name": "ETH Token",
       "symbol": "ETH",
-      "address": "0x8694A1A789133c94aA3c95B80c852583628A93b6",
-      "chainId": 422,
+      "address": "0xf6E7129F427aE7E78E870574f16aD4eA36B19d8b",
+      "chainId": 333313,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
     },
@@ -33,8 +33,8 @@
     {
       "name": "MATIC Token",
       "symbol": "MATIC",
-      "address": "0x9fa6182C041c52b714d8b402C4e358881a53067d",
-      "chainId": 422,
+      "address": "0xe30E2F0aFD56dacF8b8D4afBc594f63eE21B9441",
+      "chainId": 333313,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/14073/small/matic.png"
     },
@@ -42,8 +42,8 @@
     {
       "name": "BNB Token",
       "symbol": "BNB",
-      "address": "0xE5184D6B16aE42D16fBA7210277Ee6a7a23352Fd",
-      "chainId": 422,
+      "address": "0xF7256527f97b4159E9Ad1D108927633aF6105560",
+      "chainId": 333313,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/12591/small/binance-coin-logo.png"
     }
